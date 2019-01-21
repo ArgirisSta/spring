@@ -1,0 +1,19 @@
+body {
+  background: #e5e5e5;
+}
+
+.menu, li {
+  background: #3b3b3b;
+}
+
+li:hover {
+  background: #badaff;
+}
+
+label {
+  display: block;
+}
+
+.validationError {
+  color: #cc4b37 !important;
+}
